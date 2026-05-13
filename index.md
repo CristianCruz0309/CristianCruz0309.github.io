@@ -1,74 +1,77 @@
 ---
 layout: default
-title: Cristian Cruz | Portafolio
+title: Cristian Cruz | Portfolio
 ---
 
 # 👨‍💻 Cristian Cruz
 
-### Estudiante de Ingeniería y desarrollador en aprendizaje 🚀
+### 🚀 Front-End Developer in Progress
 
-Bienvenido a mi portafolio en GitHub Pages.  
-Aquí comparto proyectos, prácticas y tecnologías que estoy aprendiendo durante mi proceso como desarrollador.
-
----
-
-## 🚀 Sobre mí
-
-Soy estudiante universitario apasionado por la tecnología, el desarrollo web y la programación.  
-Actualmente estoy aprendiendo:
-
-- HTML5
-- CSS3
-- JavaScript
-- Git y GitHub
-- MySQL
-- Java
-- Front-End Development
-
-Mi objetivo es mejorar cada día y construir proyectos cada vez más completos.
+> “Learning by building real projects.”
 
 ---
 
-## 🛠️ Tecnologías
+## 🌟 About Me
 
-| Tecnología | Nivel |
-|------------|--------|
-| HTML | ⭐⭐⭐⭐ |
-| CSS | ⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐⭐ |
-| Git & GitHub | ⭐⭐⭐⭐ |
-| Java | ⭐⭐⭐ |
-| MySQL | ⭐⭐⭐ |
+Hello! I'm Cristian, a university student passionate about technology and software development.
+
+Currently learning and improving my skills in:
+
+- 🌐 HTML5 & CSS3
+- ⚡ JavaScript
+- 🐙 Git & GitHub
+- ☕ Java
+- 🗄️ MySQL
+- 🎨 Front-End Development
 
 ---
 
-## 📂 Proyectos
+## 🛠️ Tech Stack
+
+| Technology | Experience |
+|------------|------------|
+| HTML5 | ⭐⭐⭐⭐☆ |
+| CSS3 | ⭐⭐⭐⭐☆ |
+| JavaScript | ⭐⭐⭐⭐☆ |
+| Git & GitHub | ⭐⭐⭐⭐☆ |
+| Java | ⭐⭐⭐☆☆ |
+| MySQL | ⭐⭐⭐⭐☆ |
+
+---
+
+## 📂 Featured Projects
 
 ### 🔹 GitHub Pages Portfolio
-Mi primera página publicada usando GitHub Pages y Jekyll Themes.
+Personal portfolio hosted with GitHub Pages and Jekyll.
 
-### 🔹 Sistema de Usuarios en Java
-Proyecto usando Java y MySQL con conexión a base de datos y pruebas DAO.
+### 🔹 User Management System
+Java + MySQL project with DAO structure and database connection.
 
-### 🔹 Prácticas Front-End
-Ejercicios y diseños web realizados durante mi aprendizaje de desarrollo web.
+### 🔹 Front-End Practices
+Responsive web layouts and interface exercises.
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianCruz0309&show_icons=true)
+
+---
+
+## 📚 Currently Learning
 
 - Responsive Design
-- JavaScript moderno
-- Bases de datos relacionales
-- Control de versiones con Git
-- Desarrollo Front-End
+- Modern JavaScript
+- APIs
+- Databases
+- UI/UX Basics
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
-- GitHub: [CristianCruz0309](https://github.com/CristianCruz0309)
+- 💻 GitHub: [CristianCruz0309](https://github.com/CristianCruz0309)
 
 ---
 
-# 🚀 Gracias por visitar mi portafolio
+# 🚀 Thanks for visiting my portfolio

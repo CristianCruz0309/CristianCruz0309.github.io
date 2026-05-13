@@ -52,12 +52,6 @@ Responsive web layouts and interface exercises.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CristianCruz0309&show_icons=true)
-
----
-
 ## 📚 Currently Learning
 
 - Responsive Design

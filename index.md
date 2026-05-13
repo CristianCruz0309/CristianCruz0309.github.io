@@ -18,9 +18,10 @@ Hello! I'm Cristian, a university student passionate about technology and softwa
 Currently learning and improving my skills in:
 
 - 🌐 HTML5 & CSS3
-- ⚡ JavaScript
+- ⚡ JavaScript & React
 - 🐙 Git & GitHub
 - ☕ Java
+- 🐍 Python
 - 🗄️ MySQL
 - 🎨 Front-End Development
 
